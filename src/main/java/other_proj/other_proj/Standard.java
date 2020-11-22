@@ -2,9 +2,7 @@ package other_proj.other_proj;
 
 import org.joda.time.DateTime;
 
-import ct417.ct417.Course;
-import ct417.ct417.Module;
-import ct417.ct417.Student;
+import ct417.ct417.*;
 
 public class Standard {
     
